@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "671033296741",
+    "firebase_url": "https://evaluacionnacional-248c7-default-rtdb.firebaseio.com",
+    "project_id": "evaluacionnacional-248c7",
+    "storage_bucket": "evaluacionnacional-248c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671033296741:android:8f87f273d0dc443eb1838c",
+        "android_client_info": {
+          "package_name": "com.example.evaluacionnacional"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_uSCRQdPT7a8raRrHzn_GqsGYYqi_WlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671033296741:android:7518a819e8798a7eb1838c",
+        "android_client_info": {
+          "package_name": "com.example.evaluacionnacional_v3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_uSCRQdPT7a8raRrHzn_GqsGYYqi_WlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671033296741:android:daef7afc760b45bab1838c",
+        "android_client_info": {
+          "package_name": "twin.developers.projectmqtt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_uSCRQdPT7a8raRrHzn_GqsGYYqi_WlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
